@@ -1,5 +1,6 @@
 package com.kodilla.oop.interfejs.bankomat;
 
+
 public class ATMImpl implements ATM {
     @Override
     public void operationPayIn(int amount) {

@@ -1,0 +1,13 @@
+/build/
+**/out
+**/build
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.class
+/out/
+*.bin
+*.lock
